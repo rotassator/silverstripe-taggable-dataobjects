@@ -1,0 +1,27 @@
+{
+    "name": "rotassator/silverstripe-taggable-dataobjects",
+    "description": "Add tags to anything",
+    "type": "silverstripe-module",
+    "keywords": [
+        "silverstripe",
+        "dataobject",
+        "tags"
+    ],
+    "homepage": "https://github.com/rotassator/silverstripe-taggable-dataobjects",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Steve Dixon",
+            "email": "steve@rotassator.com"
+        }
+    ],
+    "require": {
+        "silverstripe/framework": "^3.1"
+    },
+    "support": {
+        "issues": "https://github.com/rotassator/silverstripe-taggable-dataobjects/issues"
+    },
+    "extra": {
+        "installer-name": "silverstripe-taggable-dataobjects"
+    }
+}
